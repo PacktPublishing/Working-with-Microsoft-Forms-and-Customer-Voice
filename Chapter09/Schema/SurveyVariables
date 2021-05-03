@@ -1,0 +1,22 @@
+{
+    "type": "object",
+    "properties": {
+        "EmbedContextParameters": {
+            "type": "object",
+            "properties": {
+                "Dealer": {
+                    "type": "string"
+                },
+                "First Name": {
+                    "type": "string"
+                },
+                "Last Name": {
+                    "type": "string"
+                },
+                "locale": {
+                    "type": "string"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,8 @@
+Homeloan NPS = 
+VAR Responses = COUNTROWS('Customer Voice Survey Response')
+VAR Promoters = COUNTROWS(FILTER('Customer Voice Survey Response', [NPSHomeloan]="promoter"))
+VAR Detractors = COUNTROWS(FILTER('Customer Voice Survey Response',[NPSHomeloan]="detractor"))
+VAR PromotorsPercent = DIVIDE(Promoters, Responses)
+VAR DetractorsPercent = DIVIDE(Detractors, Responses)
+RETURN 
+    (PromotorsPercent - DetractorsPercent) * 100

@@ -1,0 +1,1 @@
+@equals(triggerBody()?['msfp_sourcesurveyidentifier'], 'OSH9Ht8nM0ePrpnFfa9nyjB8XF6JhK9GhgjXuGf2q79UQzAxS1pVQThEWjZVRjAxUFpRSDA0TDM5WS4u')
