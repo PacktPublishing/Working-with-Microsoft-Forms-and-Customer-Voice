@@ -1,6 +1,6 @@
 # Working with Microsoft Forms and Customer Voice
 
-<a href="https://www.packtpub.com/product/working-with-microsoft-forms-and-customer-voice/9781801070171"><img src="Cover Image URL of the Book" alt="Working with Microsoft Forms and Customer Voice" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/working-with-microsoft-forms-and-customer-voice/9781801070171"><img src="https://static.packt-cdn.com/products/9781801070171/cover/smaller" alt="Working with Microsoft Forms and Customer Voice" height="256px" align="right"></a>
 
 This is the code repository for [Working with Microsoft Forms and Customer Voice](https://www.packtpub.com/product/working-with-microsoft-forms-and-customer-voice/9781801070171), published by Packt.
 
