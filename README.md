@@ -45,7 +45,7 @@ With the following software and hardware list you can run all code files present
 | -------- | ------------------------------------| -----------------------------------|
 | 1 to 11     | Microsoft Forms                     | Windows, Mac OS X, and Linux (Any) |
 | 6 to 11        |Dynamics 365 Customer Voice            | Windows, Mac OS X, and Linux (Any) |
-| 6,8        | Microsoft Power Automate            | Windows, Mac OS X, and Linux (Any) |
+| 6,8,9        | Microsoft Power Automate            | Windows, Mac OS X, and Linux (Any) |
 | 7        | Microsoft Power BI            | Windows, Mac OS X, and Linux (Any) |
 | 11        | Dynamics 365            | Windows, Mac OS X, and Linux (Any) |
 | 4        | Microsoft Teams            | Windows, Mac OS X, and Linux (Any) |
