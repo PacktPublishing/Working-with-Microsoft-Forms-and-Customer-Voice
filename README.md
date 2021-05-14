@@ -8,6 +8,7 @@ This is the code repository for [Working with Microsoft Forms and Customer Voice
 
 ## What is this book about?
 Microsoft Forms and Dynamics 365 Customer Voice enable organizations to collect and analyze feedback from employees and customers, helping developers to integrate their feedback and business users to collect feedback that will guide them to develop customer-centric solutions.
+
 This book takes a hands-on approach to leveraging Microsoft Forms and Dynamics 365 Customer Voice capabilities for common feedback scenarios and covers best practices and tips and tricks to have your solution up and running in no time. You'll start by exploring common scenarios where organizations collect feedback from employees and customers and implement end-to-end solutions with Forms. You’ll then discover how to create surveys and get to grips with different configuration options commonly used for each scenario. Throughout the book, you'll also find sample questions and step-by-step instructions for integrating the survey with related technology such as Microsoft Teams, Power Automate, and Power BI for an end-to-end scenario.
 By the end of this Microsoft book, you’ll be able to build and deploy your complete solution using Microsoft Forms and Dynamics 365 Customer Voice, allowing you to listen to customers or employees, interpret their feedback, take timely follow-up action, and monitor results.
 
