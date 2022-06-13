@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B17051?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # Working with Microsoft Forms and Customer Voice
 
 <a href="https://www.packtpub.com/product/working-with-microsoft-forms-and-customer-voice/9781801070171"><img src="https://static.packt-cdn.com/products/9781801070171/cover/smaller" alt="Working with Microsoft Forms and Customer Voice" height="256px" align="right"></a>
