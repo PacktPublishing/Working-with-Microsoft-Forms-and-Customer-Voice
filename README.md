@@ -64,3 +64,7 @@ is the head of product for Dynamics 365 Customer Voice. He has been with Microso
 In his free time, he likes to travel around the world having visited 79 countries, and plan to continue the travel as soon it becomes safe again from the pandemic.
 
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781801070171">https://packt.link/free-ebook/9781801070171 </a> </p>
